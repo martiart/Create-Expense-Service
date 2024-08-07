@@ -74,4 +74,4 @@ if response:
 
 ```
 ## UML Diagram
-![UML Diagram]([UML class.pdf](https://github.com/user-attachments/files/16517804/UML.class.pdf))
+![UML Class Diagram](https://user-images.githubusercontent.com/username/repo/image.png)
