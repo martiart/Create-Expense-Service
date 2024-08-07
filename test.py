@@ -162,7 +162,7 @@ def main():
                 break  # exit the loop if the user does not want to add more expenses
 
     except KeyboardInterrupt:
-        print("\nService stopped by user.")  # Notify user when service is stopped
+        print("\n \nService stopped by user.")  # Notify user when service is stopped
     finally:
         # Save updated expenses to file when the user exits the program
         with open(EXPENSE_FILE, 'w') as file:

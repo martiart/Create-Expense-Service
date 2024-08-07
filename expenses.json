@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": 1,
+        "amount": 300.0,
+        "description": "art"
+    },
+    {
+        "id": 2,
+        "amount": 423089.0,
+        "description": "car"
+    }
+]
