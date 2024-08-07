@@ -74,5 +74,5 @@ if response:
 
 ```
 ## UML Diagram
-![uml sequence diagram][UML class.pdf](https://github.com/user-attachments/files/16517837/UML.class.pdf)
+![uml sequence diagram](https://github.com/martiart/Create-Expense-Service/issues/2#issue-2452209900)
 
