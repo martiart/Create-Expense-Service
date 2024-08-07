@@ -32,7 +32,7 @@ To create a new expense, a request JSON file named 'request.json' should be form
 
 ```
 ## How to request Data:
-```json
+```
 import json
 
 def send_request(expense):
@@ -54,7 +54,7 @@ send_request(new_expense)
 ```
 
 # How to recieve data:
-```json
+```
 import json
 
 def get_response():
