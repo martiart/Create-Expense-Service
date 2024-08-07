@@ -5,7 +5,8 @@ This microservice allows you to manage expenses by creating new entries stored i
 # Communication Contract
 ## Request Format:
 To create a new expense, a request JSON file named 'request.json' should be formatted as shown below: 
-'[
+'''json
+[
   {
     "action": "create",
     "expense": {
@@ -15,4 +16,4 @@ To create a new expense, a request JSON file named 'request.json' should be form
     }
   }
 ]
-'
+'''
