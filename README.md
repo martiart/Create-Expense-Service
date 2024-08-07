@@ -73,3 +73,5 @@ if response:
     print(response)
 
 ```
+## UML Diagram
+![UML Diagram]([UML class.pdf](https://github.com/user-attachments/files/16517804/UML.class.pdf))
