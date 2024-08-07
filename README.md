@@ -74,5 +74,5 @@ if response:
 
 ```
 ## UML Diagram
-![uml sequence diagram](https://github.com/martiart/Create-Expense-Service/issues/2#issue-2452209900)
+![UML Sequence Diagram](https://github.com/martiart/Create-Expense-Service/assets/115540322/cf15c650-07bb-451e-b2fc-2cd761618b2d)
 
